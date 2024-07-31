@@ -201,7 +201,7 @@
   </a>
   </td>
     <td>
-  <a href="https://github.com/giyeonkwon013"> 
+  <a href="https://github.com/giyeon-dev"> 
    <img src="https://avatars.githubusercontent.com/u/122511574?v=4" />
   </a>
   </td>
